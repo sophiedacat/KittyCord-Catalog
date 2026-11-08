@@ -1,488 +1,525 @@
 {
-	"api_version": 1,
-	"entries": [
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "forest-piano",
-				"name": "Forest Piano",
-				"version": "1.0.0",
-				"author": "Atsukoro",
-				"license": "CC0-1.0",
-				"source": "https://konachan.com/post/show/375564",
-				"kind": "theme",
-				"capabilities": [],
-				"actions": []
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/forest-piano.serein-extension",
-			"sha256": "3FFFA784B2F406B4AD435FA5804BAA1BED9EAD9682254546CCF332C2BAE12505",
-			"download_bytes": 6452658,
-			"source_commit": "HEAD",
-			"preview": {
-				"url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/forest-piano.png",
-				"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-				"download_bytes": 0
-			}
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "serein-forest",
-				"name": "Forest",
-				"version": "1.0.0",
-				"author": "Serein contributors",
-				"license": "MIT OR Apache-2.0",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "theme",
-				"capabilities": [],
-				"actions": []
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/forest.serein-extension",
-			"sha256": "F576FBCB73F452DA4ECDDDA35F92932CDD3EF7B46959A38837FE3491784D6038",
-			"download_bytes": 1454,
-			"source_commit": "HEAD",
-			"preview": {
-				"url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/forest.png",
-				"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-				"download_bytes": 0
-			}
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "golden-theme",
-				"name": "Golden Theme",
-				"version": "1.0.0",
-				"author": "a1.lol",
-				"license": "MIT",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "theme",
-				"capabilities": [],
-				"actions": []
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/golden.serein-extension",
-			"sha256": "0018A46E9C5E4D0431BA02A860B3D7DEFFAB9C159C5D52E04928421CCB3BE586",
-			"download_bytes": 1794,
-			"source_commit": "HEAD",
-			"preview": {
-				"url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/golden.png",
-				"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-				"download_bytes": 0
-			}
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "black-theme",
-				"name": "BlackTheme",
-				"version": "1.1.0",
-				"author": "a1.lol",
-				"license": "MIT",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "theme",
-				"capabilities": [],
-				"actions": []
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/katana.serein-extension",
-			"sha256": "CF4EF3755D9208E700EE721B66EDAD3FCEB4F26E52D09B82E645BF49070F1A15",
-			"download_bytes": 994,
-			"source_commit": "HEAD",
-			"preview": {
-				"url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/katana.png",
-				"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-				"download_bytes": 0
-			}
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "serein-latte",
-				"name": "Latte",
-				"version": "1.0.0",
-				"author": "Serein contributors",
-				"license": "MIT OR Apache-2.0",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "theme",
-				"capabilities": [],
-				"actions": []
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/latte.serein-extension",
-			"sha256": "A3C3AC481E6D4039A5DF26A0E58583ADD79E638F7A58A6FAE309D1BEB74A468D",
-			"download_bytes": 1452,
-			"source_commit": "HEAD",
-			"preview": {
-				"url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/latte.png",
-				"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-				"download_bytes": 0
-			}
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "serein-midnight",
-				"name": "Midnight",
-				"version": "1.0.0",
-				"author": "Serein contributors",
-				"license": "MIT OR Apache-2.0",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "theme",
-				"capabilities": [],
-				"actions": []
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/midnight.serein-extension",
-			"sha256": "F7FFB0ACDB7269F1E2FDB235536870CEF344F3FAC761543174DDC091BB2AEBB6",
-			"download_bytes": 1458,
-			"source_commit": "HEAD",
-			"preview": {
-				"url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/midnight.png",
-				"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-				"download_bytes": 0
-			}
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "obsidian-theme",
-				"name": "Obsidian Theme",
-				"version": "1.0.0",
-				"author": "a1.lol",
-				"license": "MIT",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "theme",
-				"capabilities": [],
-				"actions": []
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/obsidian.serein-extension",
-			"sha256": "E42CB1AD38F0C495375343BB8E64852CCB98A5A860293CD9CE3A86BBEC1F0DD5",
-			"download_bytes": 1838,
-			"source_commit": "HEAD",
-			"preview": {
-				"url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/obsidian.png",
-				"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-				"download_bytes": 0
-			}
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "serein-ocean",
-				"name": "Ocean",
-				"version": "1.0.0",
-				"author": "Serein contributors",
-				"license": "MIT OR Apache-2.0",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "theme",
-				"capabilities": [],
-				"actions": []
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/ocean.serein-extension",
-			"sha256": "7309D84495DC4487CCB3E3355FD704C79DD8F68B14A3441CCC7EA5BDA5EF9BE8",
-			"download_bytes": 958,
-			"source_commit": "HEAD",
-			"preview": {
-				"url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/ocean.png",
-				"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-				"download_bytes": 0
-			}
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "serein-rose",
-				"name": "Rose",
-				"version": "1.0.0",
-				"author": "Serein contributors",
-				"license": "MIT OR Apache-2.0",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "theme",
-				"capabilities": [],
-				"actions": []
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/rose.serein-extension",
-			"sha256": "BF8AD0DC259C375FBCE786591530F0C2121CF336E63FC39DAAC11A2FC000087C",
-			"download_bytes": 1450,
-			"source_commit": "HEAD",
-			"preview": {
-				"url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/rose.png",
-				"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-				"download_bytes": 0
-			}
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "soft-white-theme",
-				"name": "Soft White",
-				"version": "1.0.0",
-				"author": "Serein contributors",
-				"license": "MIT OR Apache-2.0",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "theme",
-				"capabilities": [],
-				"actions": []
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/soft-white.serein-extension",
-			"sha256": "E981BF8D1230BF540E531D49EECDE1F06769E635B55BA2B4EB376DAB668248A0",
-			"download_bytes": 5860518,
-			"source_commit": "HEAD",
-			"preview": {
-				"url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/soft-white.png",
-				"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-				"download_bytes": 0
-			}
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "teal-theme",
-				"name": "Teal Theme",
-				"version": "1.0.0",
-				"author": "a1.lol",
-				"license": "MIT",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "theme",
-				"capabilities": [],
-				"actions": []
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/teal.serein-extension",
-			"sha256": "1C794D14B12BB470164E2C220051DE7C20B13DE8175390595A559F551BB6409A",
-			"download_bytes": 1827,
-			"source_commit": "HEAD",
-			"preview": {
-				"url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/teal.png",
-				"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-				"download_bytes": 0
-			}
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "message-logger",
-				"name": "Message Logger",
-				"version": "1.0.0",
-				"author": "KittyCord",
-				"license": "MIT",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "plugin",
-				"capabilities": ["message_events", "storage"],
-				"actions": [
-					{
-						"id": "message-event",
-						"label": "Message Event",
-						"surface": "message_event"
-					},
-					{
-						"id": "show",
-						"label": "Show Log",
-						"surface": "panel"
-					},
-					{
-						"id": "clear",
-						"label": "Clear Log",
-						"surface": "activation"
-					}
-				]
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/message-logger.serein-extension",
-			"sha256": "cf3cc0d31e6fae967babbbd89b2eec8200286b908f3ee523bbbcfcd75932a99b",
-			"download_bytes": 1124816,
-			"source_commit": "HEAD",
-			"preview": null
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "status-logger",
-				"name": "Status Logger",
-				"version": "1.0.0",
-				"author": "KittyCord",
-				"license": "MIT",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "plugin",
-				"capabilities": ["presence", "storage", "app_events"],
-				"actions": [
-					{
-						"id": "presence-event",
-						"label": "Presence Event",
-						"surface": "app_event"
-					},
-					{
-						"id": "show",
-						"label": "Show Log",
-						"surface": "panel"
-					},
-					{
-						"id": "track",
-						"label": "Track User",
-						"surface": "panel"
-					},
-					{
-						"id": "untrack",
-						"label": "Untrack User",
-						"surface": "panel"
-					}
-				]
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/status-logger.serein-extension",
-			"sha256": "2e5ecc3fe1012f854c2f427dc34fccb70c463f83a15202fe2ff849132d79d2f7",
-			"download_bytes": 1128838,
-			"source_commit": "HEAD",
-			"preview": null
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "relation-logger",
-				"name": "Relation Logger",
-				"version": "1.0.0",
-				"author": "KittyCord",
-				"license": "MIT",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "plugin",
-				"capabilities": ["relationships", "storage", "app_events"],
-				"actions": [
-					{
-						"id": "relationship-event",
-						"label": "Relationship Event",
-						"surface": "app_event"
-					},
-					{
-						"id": "show",
-						"label": "Show Log",
-						"surface": "panel"
-					}
-				]
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/relation-logger.serein-extension",
-			"sha256": "24a390441dd7da8b083fd1cddd19fddb6679997079bc0658c2ea6289f87b0a76",
-			"download_bytes": 1124588,
-			"source_commit": "HEAD",
-			"preview": null
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "anti-ghost",
-				"name": "Anti-Ghost",
-				"version": "1.0.0",
-				"author": "KittyCord",
-				"license": "MIT",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "plugin",
-				"capabilities": ["message_events", "storage"],
-				"actions": [
-					{
-						"id": "message-event",
-						"label": "Message Event",
-						"surface": "message_event"
-					},
-					{
-						"id": "show",
-						"label": "Show Ghosts",
-						"surface": "panel"
-					},
-					{
-						"id": "read",
-						"label": "Mark Read",
-						"surface": "panel"
-					},
-					{
-						"id": "replied",
-						"label": "Mark Replied",
-						"surface": "panel"
-					}
-				]
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/anti-ghost.serein-extension",
-			"sha256": "3ecbd360e94fb54b91a66d73837b64df04d8a51df9e7834fd5c9789cac461543",
-			"download_bytes": 1125564,
-			"source_commit": "HEAD",
-			"preview": null
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "auto-reply",
-				"name": "Auto-Reply",
-				"version": "1.0.0",
-				"author": "KittyCord",
-				"license": "MIT",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "plugin",
-				"capabilities": ["message_events", "storage", "composer"],
-				"actions": [
-					{
-						"id": "message-event",
-						"label": "Message Event",
-						"surface": "message_event"
-					},
-					{
-						"id": "show",
-						"label": "Show Config",
-						"surface": "panel"
-					},
-					{
-						"id": "add-command",
-						"label": "Add Command",
-						"surface": "panel"
-					},
-					{
-						"id": "remove-command",
-						"label": "Remove Command",
-						"surface": "panel"
-					},
-					{
-						"id": "set-prefix",
-						"label": "Set Prefix",
-						"surface": "panel"
-					}
-				]
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/auto-reply.serein-extension",
-			"sha256": "8754c781324afdaf83233d90da6401e82842c678df286f528173312d18cdfaa4",
-			"download_bytes": 1174998,
-			"source_commit": "HEAD",
-			"preview": null
-		},
-		{
-			"manifest": {
-				"api_version": 1,
-				"id": "bulk-delete",
-				"name": "Bulk Channel Delete",
-				"version": "1.0.0",
-				"author": "KittyCord",
-				"license": "MIT",
-				"source": "https://github.com/sophiedacat/KittyCord-Catalog",
-				"kind": "plugin",
-				"capabilities": ["storage"],
-				"actions": [
-					{
-						"id": "toggle-channel",
-						"label": "Toggle Channel",
-						"surface": "panel"
-					},
-					{
-						"id": "toggle-category",
-						"label": "Toggle Category",
-						"surface": "panel"
-					},
-					{
-						"id": "delete-selected",
-						"label": "Delete Selected",
-						"surface": "activation"
-					},
-					{
-						"id": "show",
-						"label": "Show Config",
-						"surface": "panel"
-					}
-				]
-			},
-			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/bulk-delete.serein-extension",
-			"sha256": "536bda7388d8c1020d1de6098c10f59a835f4e179a2bd4583fc6cdf1a9561e90",
-			"download_bytes": 1112273,
-			"source_commit": "HEAD",
-			"preview": null
-		}
-	]
+  "api_version": 1,
+  "entries": [
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "forest-piano",
+        "name": "Forest Piano",
+        "version": "1.0.0",
+        "author": "Atsukoro",
+        "license": "CC0-1.0",
+        "source": "https://konachan.com/post/show/375564",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": [],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/forest-piano.serein-extension",
+      "sha256": "3FFFA784B2F406B4AD435FA5804BAA1BED9EAD9682254546CCF332C2BAE12505",
+      "download_bytes": 6452658,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/forest-piano.png",
+        "sha256": "f3e8df1046c03eeed4a477530c5dec114ee582caa0ec4bb28e24b4131b8ce29f",
+        "download_bytes": 147517
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "kittycord-forest",
+        "name": "Forest",
+        "version": "1.0.0",
+        "author": "KittyCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": [],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/forest.serein-extension",
+      "sha256": "F576FBCB73F452DA4ECDDDA35F92932CDD3EF7B46959A38837FE3491784D6038",
+      "download_bytes": 1454,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/forest.png",
+        "sha256": "a55d6c1dedee9e9696bd7a634aca41977f20eb428580d32da12a0dc477b543a9",
+        "download_bytes": 66398
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "golden-theme",
+        "name": "Golden Theme",
+        "version": "1.0.0",
+        "author": "a1.lol",
+        "license": "MIT",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": [],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/golden.serein-extension",
+      "sha256": "0018A46E9C5E4D0431BA02A860B3D7DEFFAB9C159C5D52E04928421CCB3BE586",
+      "download_bytes": 1794,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/golden.png",
+        "sha256": "1e9df1eaf7fe9906d9088924403f8cf4f4cd71527ce0af97681c600704536a1b",
+        "download_bytes": 66164
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "black-theme",
+        "name": "BlackTheme",
+        "version": "1.1.0",
+        "author": "a1.lol",
+        "license": "MIT",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": [],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/katana.serein-extension",
+      "sha256": "CF4EF3755D9208E700EE721B66EDAD3FCEB4F26E52D09B82E645BF49070F1A15",
+      "download_bytes": 994,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/katana.png",
+        "sha256": "693726039bd2edac1d44bdaa624c7b2bb3cf3e5245b87316a925418902097b06",
+        "download_bytes": 66257
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "kittycord-latte",
+        "name": "Latte",
+        "version": "1.0.0",
+        "author": "KittyCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": [],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/latte.serein-extension",
+      "sha256": "A3C3AC481E6D4039A5DF26A0E58583ADD79E638F7A58A6FAE309D1BEB74A468D",
+      "download_bytes": 1452,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/latte.png",
+        "sha256": "3c0a7016eb6994d1be6fb27368a06cd717657f4a042db7647255d7cbd6387275",
+        "download_bytes": 65904
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "kittycord-midnight",
+        "name": "Midnight",
+        "version": "1.0.0",
+        "author": "KittyCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": [],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/midnight.serein-extension",
+      "sha256": "F7FFB0ACDB7269F1E2FDB235536870CEF344F3FAC761543174DDC091BB2AEBB6",
+      "download_bytes": 1458,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/midnight.png",
+        "sha256": "81eb4c6bd634cc7e624a7d9714ae2503e8e05260470b7ff0af63daa3e0a98c16",
+        "download_bytes": 65740
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "obsidian-theme",
+        "name": "Obsidian Theme",
+        "version": "1.0.0",
+        "author": "a1.lol",
+        "license": "MIT",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": [],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/obsidian.serein-extension",
+      "sha256": "E42CB1AD38F0C495375343BB8E64852CCB98A5A860293CD9CE3A86BBEC1F0DD5",
+      "download_bytes": 1838,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/obsidian.png",
+        "sha256": "8860202e554147302139d5664714d65bdf6b94e8729228d4937a25c55f405588",
+        "download_bytes": 66162
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "kittycord-ocean",
+        "name": "Ocean",
+        "version": "1.0.0",
+        "author": "KittyCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": [],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/ocean.serein-extension",
+      "sha256": "7309D84495DC4487CCB3E3355FD704C79DD8F68B14A3441CCC7EA5BDA5EF9BE8",
+      "download_bytes": 958,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/ocean.png",
+        "sha256": "7fd9532d983c52ec9f86a345d23e2c6822597ca29a34833958be816e0bcc1913",
+        "download_bytes": 85376
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "kittycord-rose",
+        "name": "Rose",
+        "version": "1.0.0",
+        "author": "KittyCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": [],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/rose.serein-extension",
+      "sha256": "BF8AD0DC259C375FBCE786591530F0C2121CF336E63FC39DAAC11A2FC000087C",
+      "download_bytes": 1450,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/rose.png",
+        "sha256": "c5b3380a76863535afb52314db03240cf86f481e7805f73ac3cd6789a404980b",
+        "download_bytes": 65114
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "soft-white-theme",
+        "name": "Soft White",
+        "version": "1.0.0",
+        "author": "KittyCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": [],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/soft-white.serein-extension",
+      "sha256": "E981BF8D1230BF540E531D49EECDE1F06769E635B55BA2B4EB376DAB668248A0",
+      "download_bytes": 5860518,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/soft-white.png",
+        "sha256": "dbe0d64360c5eba021b03122cae6776a9f05585f5335c47580684e7d3ac73e60",
+        "download_bytes": 110890
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "teal-theme",
+        "name": "Teal Theme",
+        "version": "1.0.0",
+        "author": "a1.lol",
+        "license": "MIT",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": [],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/teal.serein-extension",
+      "sha256": "1C794D14B12BB470164E2C220051DE7C20B13DE8175390595A559F551BB6409A",
+      "download_bytes": 1827,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/previews/teal.png",
+        "sha256": "07f686309198ce01ddf28bbc9e1d07b91fac27949e4e4c769c3c88e084b6c36c",
+        "download_bytes": 65843
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "message-logger",
+        "name": "Message Logger",
+        "version": "1.0.0",
+        "author": "KittyCord",
+        "license": "MIT",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "plugin",
+        "capabilities": [
+          "message_events",
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "message-event",
+            "label": "Message Event",
+            "surface": "message_event"
+          },
+          {
+            "id": "show",
+            "label": "Show Log",
+            "surface": "panel"
+          },
+          {
+            "id": "clear",
+            "label": "Clear Log",
+            "surface": "activation"
+          }
+        ],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/message-logger.serein-extension",
+      "sha256": "cf3cc0d31e6fae967babbbd89b2eec8200286b908f3ee523bbbcfcd75932a99b",
+      "download_bytes": 1124816,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": null
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "status-logger",
+        "name": "Status Logger",
+        "version": "1.0.0",
+        "author": "KittyCord",
+        "license": "MIT",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "plugin",
+        "capabilities": [
+          "presence",
+          "storage",
+          "app_events"
+        ],
+        "actions": [
+          {
+            "id": "presence-event",
+            "label": "Presence Event",
+            "surface": "app_event"
+          },
+          {
+            "id": "show",
+            "label": "Show Log",
+            "surface": "panel"
+          },
+          {
+            "id": "track",
+            "label": "Track User",
+            "surface": "panel"
+          },
+          {
+            "id": "untrack",
+            "label": "Untrack User",
+            "surface": "panel"
+          }
+        ],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/status-logger.serein-extension",
+      "sha256": "2e5ecc3fe1012f854c2f427dc34fccb70c463f83a15202fe2ff849132d79d2f7",
+      "download_bytes": 1128838,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": null
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "relation-logger",
+        "name": "Relation Logger",
+        "version": "1.0.0",
+        "author": "KittyCord",
+        "license": "MIT",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "plugin",
+        "capabilities": [
+          "relationships",
+          "storage",
+          "app_events"
+        ],
+        "actions": [
+          {
+            "id": "relationship-event",
+            "label": "Relationship Event",
+            "surface": "app_event"
+          },
+          {
+            "id": "show",
+            "label": "Show Log",
+            "surface": "panel"
+          }
+        ],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/relation-logger.serein-extension",
+      "sha256": "24a390441dd7da8b083fd1cddd19fddb6679997079bc0658c2ea6289f87b0a76",
+      "download_bytes": 1124588,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": null
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "anti-ghost",
+        "name": "Anti-Ghost",
+        "version": "1.0.0",
+        "author": "KittyCord",
+        "license": "MIT",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "plugin",
+        "capabilities": [
+          "message_events",
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "message-event",
+            "label": "Message Event",
+            "surface": "message_event"
+          },
+          {
+            "id": "show",
+            "label": "Show Ghosts",
+            "surface": "panel"
+          },
+          {
+            "id": "read",
+            "label": "Mark Read",
+            "surface": "panel"
+          },
+          {
+            "id": "replied",
+            "label": "Mark Replied",
+            "surface": "panel"
+          }
+        ],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/anti-ghost.serein-extension",
+      "sha256": "3ecbd360e94fb54b91a66d73837b64df04d8a51df9e7834fd5c9789cac461543",
+      "download_bytes": 1125564,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": null
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "auto-reply",
+        "name": "Auto-Reply",
+        "version": "1.0.0",
+        "author": "KittyCord",
+        "license": "MIT",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "plugin",
+        "capabilities": [
+          "message_events",
+          "storage",
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "message-event",
+            "label": "Message Event",
+            "surface": "message_event"
+          },
+          {
+            "id": "show",
+            "label": "Show Config",
+            "surface": "panel"
+          },
+          {
+            "id": "add-command",
+            "label": "Add Command",
+            "surface": "panel"
+          },
+          {
+            "id": "remove-command",
+            "label": "Remove Command",
+            "surface": "panel"
+          },
+          {
+            "id": "set-prefix",
+            "label": "Set Prefix",
+            "surface": "panel"
+          }
+        ],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/auto-reply.serein-extension",
+      "sha256": "8754c781324afdaf83233d90da6401e82842c678df286f528173312d18cdfaa4",
+      "download_bytes": 1174998,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": null
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "bulk-delete",
+        "name": "Bulk Channel Delete",
+        "version": "1.0.0",
+        "author": "KittyCord",
+        "license": "MIT",
+        "source": "https://github.com/sophiedacat/KittyCord-Catalog",
+        "kind": "plugin",
+        "capabilities": [
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "toggle-channel",
+            "label": "Toggle Channel",
+            "surface": "panel"
+          },
+          {
+            "id": "toggle-category",
+            "label": "Toggle Category",
+            "surface": "panel"
+          },
+          {
+            "id": "delete-selected",
+            "label": "Delete Selected",
+            "surface": "activation"
+          },
+          {
+            "id": "show",
+            "label": "Show Config",
+            "surface": "panel"
+          }
+        ],
+        "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb"
+      },
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/bulk-delete.serein-extension",
+      "sha256": "536bda7388d8c1020d1de6098c10f59a835f4e179a2bd4583fc6cdf1a9561e90",
+      "download_bytes": 1112273,
+      "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
+      "preview": null
+    }
+  ]
 }
