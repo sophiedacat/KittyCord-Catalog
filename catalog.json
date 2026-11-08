@@ -14,7 +14,7 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/forest-piano.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/forest-piano.kittycord-extension",
       "sha256": "3FFFA784B2F406B4AD435FA5804BAA1BED9EAD9682254546CCF332C2BAE12505",
       "download_bytes": 6452658,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -37,7 +37,7 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/forest.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/forest.kittycord-extension",
       "sha256": "F576FBCB73F452DA4ECDDDA35F92932CDD3EF7B46959A38837FE3491784D6038",
       "download_bytes": 1454,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -60,7 +60,7 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/golden.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/golden.kittycord-extension",
       "sha256": "0018A46E9C5E4D0431BA02A860B3D7DEFFAB9C159C5D52E04928421CCB3BE586",
       "download_bytes": 1794,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -83,7 +83,7 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/katana.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/katana.kittycord-extension",
       "sha256": "CF4EF3755D9208E700EE721B66EDAD3FCEB4F26E52D09B82E645BF49070F1A15",
       "download_bytes": 994,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -106,7 +106,7 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/latte.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/latte.kittycord-extension",
       "sha256": "A3C3AC481E6D4039A5DF26A0E58583ADD79E638F7A58A6FAE309D1BEB74A468D",
       "download_bytes": 1452,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -129,7 +129,7 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/midnight.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/midnight.kittycord-extension",
       "sha256": "F7FFB0ACDB7269F1E2FDB235536870CEF344F3FAC761543174DDC091BB2AEBB6",
       "download_bytes": 1458,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -152,7 +152,7 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/obsidian.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/obsidian.kittycord-extension",
       "sha256": "E42CB1AD38F0C495375343BB8E64852CCB98A5A860293CD9CE3A86BBEC1F0DD5",
       "download_bytes": 1838,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -175,7 +175,7 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/ocean.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/ocean.kittycord-extension",
       "sha256": "7309D84495DC4487CCB3E3355FD704C79DD8F68B14A3441CCC7EA5BDA5EF9BE8",
       "download_bytes": 958,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -198,7 +198,7 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/rose.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/rose.kittycord-extension",
       "sha256": "BF8AD0DC259C375FBCE786591530F0C2121CF336E63FC39DAAC11A2FC000087C",
       "download_bytes": 1450,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -221,7 +221,7 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/soft-white.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/soft-white.kittycord-extension",
       "sha256": "E981BF8D1230BF540E531D49EECDE1F06769E635B55BA2B4EB376DAB668248A0",
       "download_bytes": 5860518,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -244,7 +244,7 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/teal.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/themes/teal.kittycord-extension",
       "sha256": "1C794D14B12BB470164E2C220051DE7C20B13DE8175390595A559F551BB6409A",
       "download_bytes": 1827,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -286,7 +286,7 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/message-logger.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/message-logger.kittycord-extension",
       "sha256": "cf3cc0d31e6fae967babbbd89b2eec8200286b908f3ee523bbbcfcd75932a99b",
       "download_bytes": 1124816,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -330,7 +330,7 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/status-logger.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/status-logger.kittycord-extension",
       "sha256": "2e5ecc3fe1012f854c2f427dc34fccb70c463f83a15202fe2ff849132d79d2f7",
       "download_bytes": 1128838,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -364,7 +364,7 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/relation-logger.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/relation-logger.kittycord-extension",
       "sha256": "24a390441dd7da8b083fd1cddd19fddb6679997079bc0658c2ea6289f87b0a76",
       "download_bytes": 1124588,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -407,7 +407,7 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/anti-ghost.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/anti-ghost.kittycord-extension",
       "sha256": "3ecbd360e94fb54b91a66d73837b64df04d8a51df9e7834fd5c9789cac461543",
       "download_bytes": 1125564,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -456,7 +456,7 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/auto-reply.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/auto-reply.kittycord-extension",
       "sha256": "8754c781324afdaf83233d90da6401e82842c678df286f528173312d18cdfaa4",
       "download_bytes": 1174998,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
@@ -498,7 +498,7 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/bulk-delete.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/bulk-delete.kittycord-extension",
       "sha256": "536bda7388d8c1020d1de6098c10f59a835f4e179a2bd4583fc6cdf1a9561e90",
       "download_bytes": 1112273,
       "source_commit": "db05a508b8db8785b640d5ae91132c99a2be54bb",
