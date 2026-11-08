@@ -284,8 +284,8 @@
 				]
 			},
 			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/message-logger.serein-extension",
-			"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-			"download_bytes": 0,
+			"sha256": "cf3cc0d31e6fae967babbbd89b2eec8200286b908f3ee523bbbcfcd75932a99b",
+			"download_bytes": 1124816,
 			"source_commit": "HEAD",
 			"preview": null
 		},
@@ -324,8 +324,8 @@
 				]
 			},
 			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/status-logger.serein-extension",
-			"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-			"download_bytes": 0,
+			"sha256": "2e5ecc3fe1012f854c2f427dc34fccb70c463f83a15202fe2ff849132d79d2f7",
+			"download_bytes": 1128838,
 			"source_commit": "HEAD",
 			"preview": null
 		},
@@ -354,8 +354,8 @@
 				]
 			},
 			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/relation-logger.serein-extension",
-			"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-			"download_bytes": 0,
+			"sha256": "24a390441dd7da8b083fd1cddd19fddb6679997079bc0658c2ea6289f87b0a76",
+			"download_bytes": 1124588,
 			"source_commit": "HEAD",
 			"preview": null
 		},
@@ -394,8 +394,8 @@
 				]
 			},
 			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/anti-ghost.serein-extension",
-			"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-			"download_bytes": 0,
+			"sha256": "3ecbd360e94fb54b91a66d73837b64df04d8a51df9e7834fd5c9789cac461543",
+			"download_bytes": 1125564,
 			"source_commit": "HEAD",
 			"preview": null
 		},
@@ -439,8 +439,8 @@
 				]
 			},
 			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/auto-reply.serein-extension",
-			"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-			"download_bytes": 0,
+			"sha256": "8754c781324afdaf83233d90da6401e82842c678df286f528173312d18cdfaa4",
+			"download_bytes": 1174998,
 			"source_commit": "HEAD",
 			"preview": null
 		},
@@ -479,8 +479,8 @@
 				]
 			},
 			"release_url": "https://raw.githubusercontent.com/sophiedacat/KittyCord-Catalog/main/plugins/packages/bulk-delete.serein-extension",
-			"sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-			"download_bytes": 0,
+			"sha256": "536bda7388d8c1020d1de6098c10f59a835f4e179a2bd4583fc6cdf1a9561e90",
+			"download_bytes": 1112273,
 			"source_commit": "HEAD",
 			"preview": null
 		}
