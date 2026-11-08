@@ -1,0 +1,18 @@
+[package]
+name = "auto-reply"
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+kittycord-extension-sdk.workspace = true
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[lib]
+crate-type = ["cdylib"]
+
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
+panic = "abort"

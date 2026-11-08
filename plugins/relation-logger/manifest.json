@@ -1,0 +1,23 @@
+{
+    "api_version": 1,
+    "id": "relation-logger",
+    "name": "Relation Logger",
+    "version": "1.0.0",
+    "author": "KittyCord",
+    "license": "MIT",
+    "source": "https://github.com/ViceVerse-cz/KittyCord",
+    "kind": "plugin",
+    "capabilities": ["relationships", "storage", "app_events"],
+    "actions": [
+        {
+            "id": "relationship-event",
+            "label": "Relationship Event",
+            "surface": "app_event"
+        },
+        {
+            "id": "show",
+            "label": "Show Log",
+            "surface": "panel"
+        }
+    ]
+}

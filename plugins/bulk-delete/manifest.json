@@ -1,0 +1,33 @@
+{
+    "api_version": 1,
+    "id": "bulk-delete",
+    "name": "Bulk Channel Delete",
+    "version": "1.0.0",
+    "author": "KittyCord",
+    "license": "MIT",
+    "source": "https://github.com/ViceVerse-cz/KittyCord",
+    "kind": "plugin",
+    "capabilities": ["storage"],
+    "actions": [
+        {
+            "id": "toggle-channel",
+            "label": "Toggle Channel",
+            "surface": "panel"
+        },
+        {
+            "id": "toggle-category",
+            "label": "Toggle Category",
+            "surface": "panel"
+        },
+        {
+            "id": "delete-selected",
+            "label": "Delete Selected",
+            "surface": "activation"
+        },
+        {
+            "id": "show",
+            "label": "Show Config",
+            "surface": "panel"
+        }
+    ]
+}

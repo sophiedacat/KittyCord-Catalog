@@ -1,0 +1,28 @@
+{
+    "api_version": 1,
+    "id": "message-logger",
+    "name": "Message Logger",
+    "version": "1.0.0",
+    "author": "KittyCord",
+    "license": "MIT",
+    "source": "https://github.com/ViceVerse-cz/KittyCord",
+    "kind": "plugin",
+    "capabilities": ["message_events", "storage"],
+    "actions": [
+        {
+            "id": "message-event",
+            "label": "Message Event",
+            "surface": "message_event"
+        },
+        {
+            "id": "show",
+            "label": "Show Log",
+            "surface": "panel"
+        },
+        {
+            "id": "clear",
+            "label": "Clear Log",
+            "surface": "activation"
+        }
+    ]
+}

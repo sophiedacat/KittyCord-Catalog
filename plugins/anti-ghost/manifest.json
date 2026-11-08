@@ -1,0 +1,33 @@
+{
+    "api_version": 1,
+    "id": "anti-ghost",
+    "name": "Anti-Ghost",
+    "version": "1.0.0",
+    "author": "KittyCord",
+    "license": "MIT",
+    "source": "https://github.com/ViceVerse-cz/KittyCord",
+    "kind": "plugin",
+    "capabilities": ["message_events", "storage"],
+    "actions": [
+        {
+            "id": "message-event",
+            "label": "Message Event",
+            "surface": "message_event"
+        },
+        {
+            "id": "show",
+            "label": "Show Ghosts",
+            "surface": "panel"
+        },
+        {
+            "id": "read",
+            "label": "Mark Read",
+            "surface": "panel"
+        },
+        {
+            "id": "replied",
+            "label": "Mark Replied",
+            "surface": "panel"
+        }
+    ]
+}

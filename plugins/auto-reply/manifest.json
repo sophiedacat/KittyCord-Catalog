@@ -1,0 +1,38 @@
+{
+    "api_version": 1,
+    "id": "auto-reply",
+    "name": "Auto-Reply",
+    "version": "1.0.0",
+    "author": "KittyCord",
+    "license": "MIT",
+    "source": "https://github.com/ViceVerse-cz/KittyCord",
+    "kind": "plugin",
+    "capabilities": ["message_events", "storage", "composer"],
+    "actions": [
+        {
+            "id": "message-event",
+            "label": "Message Event",
+            "surface": "message_event"
+        },
+        {
+            "id": "show",
+            "label": "Show Config",
+            "surface": "panel"
+        },
+        {
+            "id": "add-command",
+            "label": "Add Command",
+            "surface": "panel"
+        },
+        {
+            "id": "remove-command",
+            "label": "Remove Command",
+            "surface": "panel"
+        },
+        {
+            "id": "set-prefix",
+            "label": "Set Prefix",
+            "surface": "panel"
+        }
+    ]
+}

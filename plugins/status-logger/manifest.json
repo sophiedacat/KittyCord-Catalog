@@ -1,0 +1,33 @@
+{
+    "api_version": 1,
+    "id": "status-logger",
+    "name": "Status Logger",
+    "version": "1.0.0",
+    "author": "KittyCord",
+    "license": "MIT",
+    "source": "https://github.com/ViceVerse-cz/KittyCord",
+    "kind": "plugin",
+    "capabilities": ["presence", "storage", "app_events"],
+    "actions": [
+        {
+            "id": "presence-event",
+            "label": "Presence Event",
+            "surface": "app_event"
+        },
+        {
+            "id": "show",
+            "label": "Show Log",
+            "surface": "panel"
+        },
+        {
+            "id": "track",
+            "label": "Track User",
+            "surface": "panel"
+        },
+        {
+            "id": "untrack",
+            "label": "Untrack User",
+            "surface": "panel"
+        }
+    ]
+}
